@@ -16,8 +16,8 @@ DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003120596278"))
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002560315437"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1003120596278"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1002560315437"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003128488578"))
 
 
